@@ -1,16 +1,55 @@
-## Hi there 👋
+## About Mustafa Aljumayli
 
-<!--
-**id-mustafa/id-mustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer by day, Iron Man by night.
 
-Here are some ideas to get you started:
+- 💼 I'm currently working as a Software Engineer at PhotoniCare Inc. (it's awesome, I love it)
+- 🔭 I’m currently working on a stealth startup in the real estate space and getting into Georgia Tech's OMSCS program.
+- 🌱 I’m currently learning C++, Embedded Systems Engineering, and Machine Learning
+- 👯 I’m looking to collaborate on projects that could make the world at least 1% better everyday.
+- 🤔 I’m looking for help with finding a GSM/GSMA mobile IMEI API for blacklist checking (Cheap rates please🙏).
+- 💬 Ask me about my work for local businesses and the startup space.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-aljumayli-0271b71b2/)!!!
+  
+- ⚡ Fun fact(s):
+  1) It took me 300+ job applications and 3 tech positions at uni to become a SWE.
+  2) I also geek out on beautiful clean code backends and performant PC builds on a budget (spare me the RTX4090 please🤦🏻‍♂️).
+  3) I have an extremely toxic love-hate relationship with mathematics (I know it's bad for my mental health but I can't stop).
+ 
+- 🔥 Hot take(s):
+  1) Python isn’t a programming language, it’s an English dialect.
+  2) Full-stack developers are just backend devs who know how to copy React components from Stack Overflow
+     (name the last time you genuinely styled a component from start to finish and centering a div doesn't count).
+  3) AI can't ever replace engineers fully. However, it should be included as part of the tech stack cuz everyone uses it.
+  4) AWS is called 'the cloud' because, just like your money, it appears for a second and then vanishes into thin air ☁️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Started coding in 2018. My ultimate goal is to be an engineer, not just a SWE. I like building with both my hands and VS Code.
+
+Professional Software Releases: 8 (rookie numbers, I know)
+
+### Background
+
+- FetchTek international startup founder (future big tech founder): reached $7,000,000 in revenue during college.
+- Former real estate agent 🏠.
+- Self-taught electronics repair guy and PC builder.
+- Self-taught investor.
+- Gamer on a hiatus. Former top 1%'er combat record in Destiny (solo'd the entire Crota raid, knocked Atheon off the map, lighthouse sweat 9x).
+
+#### Current Strengths
+
+- I'm from a mainly full-stack web development background.
+- I've built apps for mobile, desktop, and the web.
+- I can code in any language you need me to code in (I've used most popular languages with exceptions for a few).
+- I am a database freak. Officially cracked in SQL and database architecture design.
+- My top 3-4 programming languages are currently Java, Python, TypeScript/JavaScript, PHP.
+- My top frontend frameworks are React and Angular.
+- Hot take, my top full stack framework is NextJS. (Hear me out...I know it sucks for large-scale full stack projects but
+  give me this + Tailwind CSS and I'll give you back a professional website within 2 hours tops).
+- My top backend frameworks are FastAPI, SQLModel (you mean to tell me I can stop wasting time defining the same models TWICE??? YES PLEASE!), ExpressJS (Ole-reliable)
+- Hate configuring dev environments but surprisingly good at suffering through the process. I'm a Docker and OS dork...unfortunately.
+
+#### Current Weaknesses
+
+- C++ build systems and package management (Does anyone have a stable automated solution/pipeline to this? Automated CMake??).
+- C++ programming practices (Overall might be the coolest language to work with but why can't I stop getting segmentation faults? 😩).
+- C++ design patterns (The challenge of working with this language excites me but going through the process is painful).
+- Inexperienced in Dart, Go, Swift, Rust, and Kotlin.
