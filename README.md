@@ -44,7 +44,7 @@ Professional Software Releases: 8 (rookie numbers, I know)
 - Hot take, my top full stack framework is NextJS. (Hear me out...I know it sucks for large-scale full stack projects but
   give me this + Tailwind CSS and I'll give you back a professional website within 2 hours tops).
 - My top backend frameworks are FastAPI, SQLModel.
-- Hate configuring dev environments but surprisingly good at suffering through the process. I'm a Docker and OS dork...unfortunately.
+- Hate configuring dev environments but surprisingly good at suffering through the process.
 
 #### Current Weaknesses
 
